@@ -33,7 +33,20 @@ This project demonstrates the design and implementation of a small office networ
 - Ensured communication across all VLANs
 
 ## 📸 Screenshots
-(Add your screenshots here)
+## 🏗️ Network Topology
+![Topology](screenshots/topology.png)
+
+## 🔹 VLAN Configuration
+![VLAN](screenshots/vlan.png)
+
+## 🔹 Trunk Configuration
+![Trunk](screenshots/trunk.png)
+
+## 🔹 Router Configuration
+![Router](screenshots/router-config.png)
+
+## 🔹 Ping Test
+![Ping](screenshots/ping.png)
 
 ## 🚀 Outcome
 Successfully built a scalable and segmented network with full connectivity.
