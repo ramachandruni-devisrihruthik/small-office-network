@@ -34,7 +34,7 @@ This project demonstrates the design and implementation of a small office networ
 
 ## 📸 Screenshots
 ## 🏗️ Network Topology
-![Topology](screenshots/topology.png)
+![Topology](screenshots/Topology.png)
 
 ## 🔹 VLAN Configuration
 ![VLAN](screenshots/vlan.png)
